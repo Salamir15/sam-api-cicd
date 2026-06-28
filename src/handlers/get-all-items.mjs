@@ -1,3 +1,4 @@
+// Cambio de código para activar el pipeline automatizado de CI/CD
 // Create clients and set shared const values outside of the handler.
 
 // Create a DocumentClient that represents the query to add an item
